@@ -7,5 +7,5 @@ Day 004 - EDA/讀取資料與分析流程
 Day 005 - 如何新建一個 dataframe? 如何讀取其他資料? (非 csv 的資料)  
 Day 006 - EDA: 欄位的資料類型介紹及處理  
 Day 007 - 特徵類型  
-Day 008 - EDA資料分佈
+Day 008 - EDA資料分佈  
 Day 009 -  
