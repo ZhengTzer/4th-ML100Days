@@ -9,4 +9,4 @@ Day 006 - EDA: 欄位的資料類型介紹及處理
 Day 007 - 特徵類型  
 Day 008 - EDA資料分佈  
 Day 009 - EDA: Outlier 及處理  
-Day 010 -  
+Day 010 - 數值型特徵 - 去除離群值  
