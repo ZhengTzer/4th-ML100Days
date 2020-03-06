@@ -8,4 +8,5 @@ Day 005 - 如何新建一個 dataframe? 如何讀取其他資料? (非 csv 的�
 Day 006 - EDA: 欄位的資料類型介紹及處理  
 Day 007 - 特徵類型  
 Day 008 - EDA資料分佈  
-Day 009 -  
+Day 009 - EDA: Outlier 及處理
+Day 010 -  
