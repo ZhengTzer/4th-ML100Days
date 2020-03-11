@@ -10,9 +10,9 @@ Day 007 - 特徵類型
 Day 008 - EDA資料分佈  
 Day 009 - EDA: Outlier 及處理  
 Day 010 - 數值型特徵 - 去除離群值  
-Day 011 - 常用的數值取代：中位數與分位數連續數值標準化
+Day 011 - 常用的數值取代：中位數與分位數連續數值標準化  
 Day 012 - 數值型特徵-補缺失值與標準化  
-Day 013 -  
-Day 014 -  
+Day 013 - DataFrame operationData frame merge/常用的 DataFrame 操作  
+Day 014 - 程式實作 EDA: correlation/相關係數簡介  
 Day 015 -  
 Day 016 -  
