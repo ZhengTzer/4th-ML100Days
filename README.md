@@ -16,4 +16,6 @@ Day 013 - DataFrame operationData frame merge/常用的 DataFrame 操作
 Day 014 - 程式實作 EDA: correlation/相關係數簡介  
 Day 015 - EDA from Correlation  
 Day 016 - EDA: 不同數值範圍間的特徵如何檢視/繪圖與樣式Kernel Density Estimation (KDE)  
-Day 017 -  
+Day 017 - EDA: 把連續型變數離散化  
+Day 018 - 程式實作 把連續型變數離散化
+Day 019 -
