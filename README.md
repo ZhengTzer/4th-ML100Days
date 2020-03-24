@@ -21,4 +21,7 @@ Day 018 - 程式實作 把連續型變數離散化
 Day 019 - Subplots  
 Day 020 - Heatmap & Grid-plot  
 Day 021 - 模型初體驗 Logistic Regression  
-Day 022 -  
+Day 022 - 特徵工程簡介  
+Day 023 - 數值型特徵 - 去除偏態  
+Day 024 - 類別型特徵 - 基礎處理  
+Day 025 -  
