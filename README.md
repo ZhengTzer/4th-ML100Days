@@ -34,4 +34,6 @@ Day 031 - 特徵評估
 Day 032 - 分類型特徵優化 - 葉編碼  
 Day 033 - 機器如何學習?  
 Day 034 - 訓練/測試集切分的概念  
-Day 035 -  
+Day 035 - regression vs. classification  
+Day 036 -  
+Day 037 -  
