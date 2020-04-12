@@ -37,4 +37,5 @@ Day 034 - 訓練/測試集切分的概念
 Day 035 - regression vs. classification  
 Day 036 - 評估指標選定/evaluation metrics  
 Day 037 - regression model 介紹 - 線性迴歸/羅吉斯回歸
-Day 038 -  
+Day 038 - regression model 程式碼撰寫  
+Day 039 -  
