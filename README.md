@@ -38,4 +38,5 @@ Day 035 - regression vs. classification
 Day 036 - 評估指標選定/evaluation metrics  
 Day 037 - regression model 介紹 - 線性迴歸/羅吉斯回歸  
 Day 038 - regression model 程式碼撰寫  
-Day 039 -  
+Day 039 - regression model 介紹 - LASSO 回歸/ Ridge 回歸  
+Day 040 -  
