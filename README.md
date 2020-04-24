@@ -42,8 +42,8 @@ Day 039 - regression model 介紹 - LASSO 回歸/ Ridge 回歸
 Day 040 - regression model 程式碼撰寫  
 Day 041 - tree based model - 決策樹 (Decision Tree) 模型介紹  
 Day 042 - tree based model - 決策樹程式碼撰寫  
-Day 043 -  
-Day 044 -  
+Day 043 - tree based model - 隨機森林 (Random Forest) 介紹  
+Day 044 - tree based model - 隨機森林程式碼撰寫  
 Day 045 -  
 Day 046 -  
 Day 047 -  
