@@ -44,8 +44,8 @@ Day 041 - tree based model - 決策樹 (Decision Tree) 模型介紹
 Day 042 - tree based model - 決策樹程式碼撰寫  
 Day 043 - tree based model - 隨機森林 (Random Forest) 介紹  
 Day 044 - tree based model - 隨機森林程式碼撰寫  
-Day 045 -  
-Day 046 -  
+Day 045 - tree based model - 梯度提升機 (Gradient Boosting Machine) 介紹
+Day 046 - tree based model - 梯度提升機程式碼撰寫  
 Day 047 -  
 Day 048 -  
 Day 049 -  
