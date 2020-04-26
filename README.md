@@ -47,6 +47,6 @@ Day 044 - tree based model - 隨機森林程式碼撰寫
 Day 045 - tree based model - 梯度提升機 (Gradient Boosting Machine) 介紹
 Day 046 - tree based model - 梯度提升機程式碼撰寫  
 Day 047 - 超參數調整與優化  
-Day 048 -  
-Day 049 -  
-Day 050 -  
+Day 048 - Kaggle 競賽平台介紹  
+Day 049 - 集成方法 : 混合泛化(Blending)  
+Day 050 - 集成方法 : 堆疊泛化(Stacking)  
