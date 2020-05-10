@@ -50,5 +50,5 @@ Day 047 - 超參數調整與優化
 Day 048 - Kaggle 競賽平台介紹  
 Day 049 - 集成方法 : 混合泛化(Blending)  
 Day 050 - 集成方法 : 堆疊泛化(Stacking)  
-Day 051 - Day 053 Kaggle期中考 考ML與調參相關
+Day 051 - Day 053 Kaggle期中考 考ML與調參相關  
 Day 054 -  
