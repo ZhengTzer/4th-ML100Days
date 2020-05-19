@@ -51,4 +51,10 @@ Day 048 - Kaggle 競賽平台介紹
 Day 049 - 集成方法 : 混合泛化(Blending)  
 Day 050 - 集成方法 : 堆疊泛化(Stacking)  
 Day 051 - Day 053 Kaggle期中考 考ML與調參相關  
-Day 054 -  
+Day 054 - clustering 1 非監督式機器學習簡介  
+Day 055 -  
+Day 056 -  
+Day 057 -  
+Day 058 -  
+Day 059 -  
+Day 060 -  
