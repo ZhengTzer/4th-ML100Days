@@ -54,7 +54,7 @@ Day 051 - Day 053 Kaggle期中考 考ML與調參相關
 Day 054 - clustering 1 非監督式機器學習簡介  
 Day 055 - clustering 2 聚類算法  
 Day 056 - K-mean 觀察 : 使用輪廓分析  
-Day 057 -  
+Day 057 - clustering 3 階層分群算法  
 Day 058 -  
 Day 059 -  
 Day 060 -  
