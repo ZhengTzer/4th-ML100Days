@@ -61,5 +61,5 @@ Day 060 - PCA 觀察 : 使用手寫辨識資料集
 Day 061 - dimension reduction 2 降維方法-T-SNE  
 Day 062 - t-sne 觀察 : 分群與流形還原  
 Day 063 - 神經網路介紹  
-Day 064 -  
+Day 064 - 深度學習體驗 : 模型調整與學習曲線  
 Day 065 -  
