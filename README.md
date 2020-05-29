@@ -66,5 +66,5 @@ Day 065 - 深度學習體驗 : 啟動函數與正規化
 Day 066 - Keras 安裝與介紹  
 Day 067 - Keras Dataset  
 Day 068 - Keras Sequential API  
-Day 069 -  
+Day 069 - Keras Module API  
 Day 070 -  
