@@ -64,7 +64,7 @@ Day 063 - 神經網路介紹
 Day 064 - 深度學習體驗 : 模型調整與學習曲線  
 Day 065 - 深度學習體驗 : 啟動函數與正規化  
 Day 066 - Keras 安裝與介紹  
-Day 067 -  
+Day 067 - Keras Dataset  
 Day 068 -  
 Day 069 -  
 Day 070 -  
