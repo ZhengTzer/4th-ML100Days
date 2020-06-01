@@ -25,7 +25,7 @@ Day 022 - 特徵工程簡介
 Day 023 - 數值型特徵 - 去除偏態  
 Day 024 - 類別型特徵 - 基礎處理  
 Day 025 - 類別型特徵 - 均值編碼  
-Day 026 - 類別型特徵 - 其他進階處理
+Day 026 - 類別型特徵 - 其他進階處理  
 Day 027 - 時間型特徵  
 Day 028 - 特徵組合 - 數值與數值組合  
 Day 029 - 特徵組合 - 類別與數值組合  
@@ -68,4 +68,5 @@ Day 067 - Keras Dataset
 Day 068 - Keras Sequential API  
 Day 069 - Keras Module API  
 Day 070 - Multi-layer Perception多層感知  
-Day 071 -  
+Day 071 - 損失函數  
+Day 072 -  
