@@ -67,4 +67,5 @@ Day 066 - Keras 安裝與介紹
 Day 067 - Keras Dataset  
 Day 068 - Keras Sequential API  
 Day 069 - Keras Module API  
-Day 070 -  
+Day 070 - Multi-layer Perception多層感知
+Day 071 -  
