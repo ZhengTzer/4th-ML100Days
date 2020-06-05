@@ -69,4 +69,6 @@ Day 068 - Keras Sequential API
 Day 069 - Keras Module API  
 Day 070 - Multi-layer Perception多層感知  
 Day 071 - 損失函數  
-Day 072 -  
+Day 072 - 啟動函數  
+Day 073 - 梯度下降Gradient Descent  
+Day 074 -  
