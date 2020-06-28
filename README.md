@@ -71,4 +71,6 @@ Day 070 - Multi-layer Perception多層感知
 Day 071 - 損失函數  
 Day 072 - 啟動函數  
 Day 073 - 梯度下降Gradient Descent  
-Day 074 -  
+Day 074 - Gradient Descent 數學原理  
+Day 075 - BackPropagation  
+Day 076 - 優化器optimizers  
