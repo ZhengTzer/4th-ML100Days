@@ -75,4 +75,5 @@ Day 074 - Gradient Descent 數學原理
 Day 075 - BackPropagation  
 Day 076 - 優化器optimizers  
 Day 077 - 訓練神經網路的細節與技巧 - Validation and overfit  
-Day 078 -  
+Day 078 - 訓練神經網路前的注意事項  
+Day 079 -  
