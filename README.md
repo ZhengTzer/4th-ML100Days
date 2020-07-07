@@ -77,4 +77,8 @@ Day 076 - 優化器optimizers
 Day 077 - 訓練神經網路的細節與技巧 - Validation and overfit  
 Day 078 - 訓練神經網路前的注意事項  
 Day 079 - 訓練神經網路的細節與技巧 - Learning rate effect  
-Day 080 -  
+Day 080 - [練習 Day] 優化器與學習率的組合與比較
+Day 081 - 訓練神經網路的細節與技巧 - Regularization  
+Day 082 - 訓練神經網路的細節與技巧 - Dropout  
+Day 083 - 訓練神經網路的細節與技巧 - Batch normalization  
+Day 084 - [練習 Day] 正規化/機移除/批次標準化的 組合與比較  
