@@ -89,3 +89,5 @@ Day 088 - 訓練神經網路的細節與技巧 - 撰寫自己的 callbacks 函�
 Day 089 - 訓練神經網路的細節與技巧 - 撰寫自己的 Loss function  
 Day 090 - 使用傳統電腦視覺與機器學習進行影像辨識  
 Day 091 - [練習 Day] 使用傳統電腦視覺與機器學習進行影像辨識  
+Day 092 - 卷積神經網路 (Convolution Neural Network, CNN) 簡介  
+Day 093 -  
