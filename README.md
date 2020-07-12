@@ -83,7 +83,7 @@ Day 082 - 訓練神經網路的細節與技巧 - Dropout
 Day 083 - 訓練神經網路的細節與技巧 - Batch normalization  
 Day 084 - [練習 Day] 正規化/機移除/批次標準化的 組合與比較  
 Day 085 - 訓練神經網路的細節與技巧 - 使用 callbacks 函數做 earlystop  
-Day 086 - 訓練神經網路的細節與技巧 - 使用 callbacks 函數儲存 model
+Day 086 - 訓練神經網路的細節與技巧 - 使用 callbacks 函數儲存 model  
 Day 087 - 訓練神經網路的細節與技巧 - 使用 callbacks 函數做 reduce learning rate  
 Day 088 - 訓練神經網路的細節與技巧 - 撰寫自己的 callbacks 函數  
 Day 089 - 訓練神經網路的細節與技巧 - 撰寫自己的 Loss function  
