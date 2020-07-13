@@ -90,4 +90,11 @@ Day 089 - 訓練神經網路的細節與技巧 - 撰寫自己的 Loss function
 Day 090 - 使用傳統電腦視覺與機器學習進行影像辨識  
 Day 091 - [練習 Day] 使用傳統電腦視覺與機器學習進行影像辨識  
 Day 092 - 卷積神經網路 (Convolution Neural Network, CNN) 簡介  
-Day 093 -  
+Day 093 - 卷積神經網路架構細節  
+Day 094 - 卷積神經網路 - 卷積(Convolution)層與參數調整  
+Day 095 - 卷積神經網路 - 池化(Pooling)層與參數調整  
+Day 096 - Keras 中的 CNN layers  
+Day 097 - 使用 CNN 完成 CIFAR-10 資料集  
+Day 098 - 訓練卷積神經網路的細節與技巧 - 處理大量數據  
+Day 099 - 訓練卷積神經網路的細節與技巧 - 處理小量數據  
+Day 100 - 訓練卷積神經網路的細節與技巧 - 轉移學習 (Transfer learning)  
